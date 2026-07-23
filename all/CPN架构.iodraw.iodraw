@@ -346,16 +346,16 @@
           <mxGeometry x="-743.57" y="1067" width="2396.57" height="358" as="geometry" />
         </mxCell>
         <mxCell id="ua6wfpM5n3cgIPm0iTqh-7" value="&lt;span style=&quot;font-family: &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;PingFang SC&amp;quot;, sans-serif; font-size: 26px;&quot;&gt;任务输入：数据量、GPU型号、CPU/内存需求&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=default;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="-684" y="1173" width="302" height="152" as="geometry" />
+          <mxGeometry x="-731" y="1121" width="302" height="152" as="geometry" />
         </mxCell>
         <mxCell id="ua6wfpM5n3cgIPm0iTqh-8" value="&lt;span style=&quot;font-family: &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;PingFang SC&amp;quot;, sans-serif; font-size: 26px;&quot;&gt;任务生命周期：接入 → 传输 → 排队 → 执行 → 返回&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=default;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="343" y="1118" width="310" height="134" as="geometry" />
+          <mxGeometry x="343" y="1118" width="632" height="134" as="geometry" />
         </mxCell>
         <mxCell id="ua6wfpM5n3cgIPm0iTqh-9" value="&lt;span style=&quot;font-family: &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;PingFang SC&amp;quot;, sans-serif; font-size: 26px;&quot;&gt;目标：严格完成、均衡负载、控制卡级碎片&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=default;fontSize=26;" vertex="1" parent="1">
           <mxGeometry x="1085.59" y="1133" width="520" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ua6wfpM5n3cgIPm0iTqh-10" value="&lt;span style=&quot;font-family: &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;PingFang SC&amp;quot;, sans-serif; font-size: 26px;&quot;&gt;服务约束：最大容忍时延、优先级与资源份额&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=default;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="-250.41" y="1179" width="271" height="158" as="geometry" />
+          <mxGeometry x="-208.5" y="1142" width="522.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ua6wfpM5n3cgIPm0iTqh-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-613" y="1564" width="1730" height="180" as="geometry" />
