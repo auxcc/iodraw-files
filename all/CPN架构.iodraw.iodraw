@@ -357,6 +357,9 @@
         <mxCell id="ua6wfpM5n3cgIPm0iTqh-10" value="&lt;span style=&quot;font-family: &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;PingFang SC&amp;quot;, sans-serif; font-size: 26px;&quot;&gt;服务约束：最大容忍时延、优先级与资源份额&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=default;fontSize=26;" vertex="1" parent="1">
           <mxGeometry x="-250.41" y="1179" width="271" height="158" as="geometry" />
         </mxCell>
+        <mxCell id="ua6wfpM5n3cgIPm0iTqh-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-449" y="1558" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
