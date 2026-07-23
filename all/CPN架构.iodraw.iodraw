@@ -343,10 +343,10 @@
           <mxGeometry x="-579.5" y="769" width="294" height="147" as="geometry" />
         </mxCell>
         <mxCell id="ua6wfpM5n3cgIPm0iTqh-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-743.57" y="1067" width="2396.57" height="358" as="geometry" />
+          <mxGeometry x="-743.57" y="1067" width="2396.57" height="232" as="geometry" />
         </mxCell>
         <mxCell id="ua6wfpM5n3cgIPm0iTqh-7" value="&lt;span style=&quot;font-family: &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;PingFang SC&amp;quot;, sans-serif; font-size: 26px;&quot;&gt;任务输入：数据量、GPU型号、CPU/内存需求&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=default;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="-727" y="1118" width="472" height="152" as="geometry" />
+          <mxGeometry x="-723" y="1126" width="544" height="94" as="geometry" />
         </mxCell>
         <mxCell id="ua6wfpM5n3cgIPm0iTqh-8" value="&lt;span style=&quot;font-family: &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;PingFang SC&amp;quot;, sans-serif; font-size: 26px;&quot;&gt;任务生命周期：接入 → 传输 → 排队 → 执行 → 返回&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=default;fontSize=26;" vertex="1" parent="1">
           <mxGeometry x="417" y="1118" width="632" height="134" as="geometry" />
