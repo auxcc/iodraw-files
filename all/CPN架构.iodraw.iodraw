@@ -387,7 +387,7 @@
         <mxCell id="ua6wfpM5n3cgIPm0iTqh-19" value="&lt;span style=&quot;font-family: &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;PingFang SC&amp;quot;, sans-serif; font-size: 25px; font-weight: 750; text-align: start;&quot;&gt;任务与服务需求层&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=default;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="-729" y="1040" width="254" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ua6wfpM5n3cgIPm0iTqh-20" value="&lt;span style=&quot;font-family: &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;PingFang SC&amp;quot;, sans-serif; font-size: 23px; font-weight: 750; text-align: start;&quot;&gt;调度支撑层&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontColor=default;labelBackgroundColor=none;fontSize=23;" vertex="1" parent="1">
+        <mxCell id="ua6wfpM5n3cgIPm0iTqh-20" value="&lt;span style=&quot;font-family: &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;PingFang SC&amp;quot;, sans-serif; font-size: 23px; font-weight: 750; text-align: start;&quot;&gt;调度支撑层&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;fontColor=#ffffff;labelBackgroundColor=none;fontSize=23;fillColor=#0050ef;" vertex="1" parent="1">
           <mxGeometry x="-717" y="188.5" width="162" height="60" as="geometry" />
         </mxCell>
       </root>
