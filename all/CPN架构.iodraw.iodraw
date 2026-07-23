@@ -336,8 +336,14 @@
         <mxCell id="ua6wfpM5n3cgIPm0iTqh-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-731" y="217" width="597" height="783" as="geometry" />
         </mxCell>
-        <mxCell id="ua6wfpM5n3cgIPm0iTqh-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ua6wfpM5n3cgIPm0iTqh-2" value="&lt;div&gt;状态目录与资源汇聚&lt;/div&gt;&lt;div&gt;节点资源、GPU型号与卡容量&lt;/div&gt;&lt;div&gt;链路负载、队列压力与任务需求&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-526" y="338" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ua6wfpM5n3cgIPm0iTqh-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-495" y="557" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ua6wfpM5n3cgIPm0iTqh-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-498" y="776" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
