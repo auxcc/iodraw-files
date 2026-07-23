@@ -358,19 +358,19 @@
           <mxGeometry x="-142" y="1158" width="522.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ua6wfpM5n3cgIPm0iTqh-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-745.75" y="1332" width="1730" height="180" as="geometry" />
+          <mxGeometry x="-743.57" y="1320" width="2397.75" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ua6wfpM5n3cgIPm0iTqh-12" value="&lt;span style=&quot;color: rgb(38, 55, 76); font-family: &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;PingFang SC&amp;quot;, sans-serif; font-size: 22px; text-align: start; background-color: rgb(247, 249, 252);&quot;&gt;状态：资源、路径、兼容性、任务与决策风险&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="-426.07" y="1407" width="314" height="60" as="geometry" />
+          <mxGeometry x="-423.89" y="1395" width="314" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ua6wfpM5n3cgIPm0iTqh-13" value="&lt;span style=&quot;color: rgb(38, 55, 76); font-family: &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;PingFang SC&amp;quot;, sans-serif; font-size: 22px; text-align: start; background-color: rgb(247, 249, 252);&quot;&gt;动作：节点选择 → 双向逐跳路由 → 候选设备—GPU卡&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="50.25" y="1404" width="373" height="60" as="geometry" />
+          <mxGeometry x="52.43" y="1392" width="373" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ua6wfpM5n3cgIPm0iTqh-14" value="&lt;span style=&quot;color: rgb(38, 55, 76); font-family: &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;PingFang SC&amp;quot;, sans-serif; font-size: 22px; text-align: start; background-color: rgb(247, 249, 252);&quot;&gt;优化：严格成功率、队列压力、风险与碎片增量&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="611.25" y="1401" width="339" height="60" as="geometry" />
+          <mxGeometry x="1079" y="1371" width="491" height="102" as="geometry" />
         </mxCell>
         <mxCell id="ua6wfpM5n3cgIPm0iTqh-15" value="决策模型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="-681.75" y="1407" width="120" height="60" as="geometry" />
+          <mxGeometry x="-679.57" y="1395" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ua6wfpM5n3cgIPm0iTqh-16" value="&lt;strong style=&quot;box-sizing: border-box; font-size: 24px; color: rgb(38, 55, 76); font-family: &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;PingFang SC&amp;quot;, sans-serif;&quot;&gt;资源状态汇聚&lt;/strong&gt;&lt;span style=&quot;color: rgb(38, 55, 76); font-family: &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;PingFang SC&amp;quot;, sans-serif; font-size: 24px;&quot;&gt;节点、链路与队列&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="77" y="-46" width="171" height="103" as="geometry" />
