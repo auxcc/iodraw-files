@@ -349,10 +349,10 @@
           <mxGeometry x="-723" y="1158" width="544" height="94" as="geometry" />
         </mxCell>
         <mxCell id="ua6wfpM5n3cgIPm0iTqh-8" value="&lt;span style=&quot;font-family: &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;PingFang SC&amp;quot;, sans-serif; font-size: 26px;&quot;&gt;任务生命周期：接入 → 传输 → 排队 → 执行 → 返回&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=default;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="417" y="1118" width="632" height="134" as="geometry" />
+          <mxGeometry x="417" y="1168" width="632" height="106" as="geometry" />
         </mxCell>
         <mxCell id="ua6wfpM5n3cgIPm0iTqh-9" value="&lt;span style=&quot;font-family: &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;PingFang SC&amp;quot;, sans-serif; font-size: 26px;&quot;&gt;目标：严格完成、均衡负载、控制卡级碎片&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=default;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="1085.59" y="1133" width="520" height="90" as="geometry" />
+          <mxGeometry x="1104" y="1173" width="520" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ua6wfpM5n3cgIPm0iTqh-10" value="&lt;span style=&quot;font-family: &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;PingFang SC&amp;quot;, sans-serif; font-size: 26px;&quot;&gt;服务约束：最大容忍时延、优先级与资源份额&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=default;fontSize=26;" vertex="1" parent="1">
           <mxGeometry x="-142" y="1158" width="522.5" height="110" as="geometry" />
@@ -380,6 +380,9 @@
         </mxCell>
         <mxCell id="ua6wfpM5n3cgIPm0iTqh-18" value="&lt;strong style=&quot;box-sizing: border-box; font-size: 24px; color: rgb(38, 55, 76); font-family: &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;PingFang SC&amp;quot;, sans-serif;&quot;&gt;策略执行&lt;/strong&gt;&lt;span style=&quot;color: rgb(38, 55, 76); font-family: &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;PingFang SC&amp;quot;, sans-serif; font-size: 24px;&quot;&gt;下发与反馈&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="545" y="-51" width="234" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ua6wfpM5n3cgIPm0iTqh-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-744" y="1067" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
